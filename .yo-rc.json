@@ -1,0 +1,40 @@
+{
+  "generator-jhipster": {
+    "promptValues": {
+      "packageName": "es.ricci.jhipster"
+    },
+    "jhipsterVersion": "6.10.5",
+    "applicationType": "monolith",
+    "baseName": "biblioteca",
+    "packageName": "es.ricci.jhipster",
+    "packageFolder": "es/ricci/jhipster",
+    "serverPort": "8080",
+    "authenticationType": "jwt",
+    "cacheProvider": "ehcache",
+    "enableHibernateCache": true,
+    "websocket": false,
+    "databaseType": "sql",
+    "devDatabaseType": "h2Disk",
+    "prodDatabaseType": "mysql",
+    "searchEngine": false,
+    "messageBroker": false,
+    "serviceDiscoveryType": false,
+    "buildTool": "maven",
+    "enableSwaggerCodegen": false,
+    "jwtSecretKey": "MzllYmQ5YmI5MzAxY2M2NGZiZTBjM2Y5ZGYyZTc0YzhmNmY4ZmI2OGM2OGJjYTMwMjBkZTQ2ODZlOTZhNTk3OGUxZTBkOWViZDIwNmQ0ZWRlNjEyN2Y3MzA3ZTgyMDU4MjY1NjU3NmY5ZDBiZjYwYWUzMjQ5ZTQ2OGRkMmU3ZjU=",
+    "embeddableLaunchScript": false,
+    "useSass": true,
+    "clientPackageManager": "npm",
+    "clientFramework": "angularX",
+    "clientTheme": "cosmo",
+    "clientThemeVariant": "primary",
+    "creationTimestamp": 1612454065251,
+    "testFrameworks": [],
+    "jhiPrefix": "jhi",
+    "entitySuffix": "",
+    "dtoSuffix": "DTO",
+    "otherModules": [],
+    "enableTranslation": false,
+    "blueprints": []
+  }
+}
